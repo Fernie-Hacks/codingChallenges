@@ -1,7 +1,5 @@
 package tech.gonzalez.fernando.resources;
 
-import org.junit.jupiter.api.TestMethodOrder;
-
 public class BinaryTree {
     Node root;
 
